@@ -1,0 +1,11 @@
+﻿{
+    "requested_model":  "yolo26x.pt",
+    "downloaded_asset_name":  "yolo26x.pt",
+    "source_repo":  "ultralytics/assets",
+    "release_tag":  "v8.4.0",
+    "download_url":  "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26x.pt",
+    "saved_as":  "weights/yolo26x.pt",
+    "file_size_bytes":  118667365,
+    "sha256":  "9FDD44A31C504547FFB81D2C6D9E6DAC3493C8EAA8B0398D3F43BAE6C7003E92",
+    "downloaded_at_utc":  "2026-05-06T17:49:38.0022453Z"
+}

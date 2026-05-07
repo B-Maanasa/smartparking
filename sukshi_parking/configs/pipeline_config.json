@@ -1,0 +1,42 @@
+﻿{
+  "paths": {
+    "input_images_dir": "sukshi_parking/similar_cctv_view",
+    "calibration_points_json": "sukshi_parking/configs/calibration_points.json",
+    "scene_polygons_json": "sukshi_parking/configs/scene_polygons.json"
+  },
+  "detection": {
+    "yolo26x_path": "weights/yolo26x.pt",
+    "target_classes": ["car", "motorcycle", "bike"],
+    "confidence_threshold": 0.25
+  },
+  "footprint": {
+    "lower_bbox_portion": 0.2
+  },
+  "bev": {
+    "land_size_m": [11.0, 11.0],
+    "width_px": 800,
+    "height_px": 800,
+    "pixels_per_meter": 72.7272727273
+  },
+  "masks": {
+    "occupied_dilation_kernel": 5,
+    "occupied_dilation_iterations": 1
+  },
+  "metrics": {
+    "thresholds": {
+      "max_reprojection_error_px": 8.0,
+      "max_distance_error_percent": 10.0,
+      "max_angle_error_deg": 6.0
+    },
+    "vehicle_size_m2": {
+      "min": 0.8,
+      "max": 25.0
+    }
+  },
+  "batch": {
+    "continue_on_error": true
+  },
+  "debug": {
+    "enabled": true
+  }
+}

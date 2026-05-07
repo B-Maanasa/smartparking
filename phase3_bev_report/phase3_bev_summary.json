@@ -1,0 +1,26 @@
+{
+  "total_image_pairs_evaluated": 46,
+  "average_usable_area_percent": 86.92856956521737,
+  "average_black_area_percent": 13.07143043478261,
+  "average_sharpness_score": 229.90249782608697,
+  "average_edge_preservation_ratio": 0.4388017826086957,
+  "average_ssim_score": 0.2399071086956522,
+  "average_bev_usability_score": 67.09032826086957,
+  "status_counts": {
+    "usable_for_v1": 28,
+    "needs_review": 18,
+    "poor": 0
+  },
+  "best_bev_image": {
+    "image_id": "36",
+    "score": 84.9897,
+    "status": "usable_for_v1"
+  },
+  "worst_bev_image": {
+    "image_id": "17",
+    "score": 51.3864,
+    "status": "needs_review"
+  },
+  "final_conclusion": "BEV outputs are usable for controlled one-parking-lot V1 evaluation.",
+  "note": "These metrics evaluate BEV image quality and structural usability. They do not prove real-world metric accuracy because physical ground-truth calibration points were not available."
+}
