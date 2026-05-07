@@ -1,0 +1,65 @@
+{
+  "image_name": "13.jpeg",
+  "detections": [
+    {
+      "class": "car",
+      "confidence": 0.9337,
+      "bbox": [
+        464,
+        229,
+        588,
+        353
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.8935,
+      "bbox": [
+        1016,
+        341,
+        1166,
+        432
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.5961,
+      "bbox": [
+        420,
+        176,
+        483,
+        217
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4317,
+      "bbox": [
+        833,
+        294,
+        921,
+        394
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.3473,
+      "bbox": [
+        833,
+        294,
+        892,
+        364
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.2826,
+      "bbox": [
+        871,
+        300,
+        924,
+        394
+      ]
+    }
+  ]
+}

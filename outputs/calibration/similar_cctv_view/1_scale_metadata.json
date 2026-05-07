@@ -1,0 +1,8 @@
+{
+  "image_name": "1.jpeg",
+  "input_subfolder": "similar_cctv_view",
+  "input_path": "sukshi_parking/similar_cctv_view/1.jpeg",
+  "tile_size_m": 0.5,
+  "tile_distance_px": 847.3576,
+  "pixels_per_meter": 1694.7151
+}

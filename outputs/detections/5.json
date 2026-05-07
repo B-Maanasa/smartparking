@@ -1,0 +1,125 @@
+{
+  "image_name": "5.jpeg",
+  "detections": [
+    {
+      "class": "car",
+      "confidence": 0.9482,
+      "bbox": [
+        720,
+        351,
+        930,
+        525
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.6933,
+      "bbox": [
+        701,
+        159,
+        744,
+        205
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.679,
+      "bbox": [
+        367,
+        209,
+        399,
+        249
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.6728,
+      "bbox": [
+        241,
+        225,
+        280,
+        259
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.617,
+      "bbox": [
+        761,
+        199,
+        823,
+        246
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.4178,
+      "bbox": [
+        416,
+        162,
+        535,
+        251
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.3695,
+      "bbox": [
+        738,
+        172,
+        785,
+        217
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.3228,
+      "bbox": [
+        265,
+        191,
+        298,
+        224
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.3033,
+      "bbox": [
+        329,
+        192,
+        363,
+        225
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.2909,
+      "bbox": [
+        818,
+        186,
+        846,
+        217
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.2664,
+      "bbox": [
+        324,
+        229,
+        359,
+        267
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.2633,
+      "bbox": [
+        555,
+        152,
+        629,
+        215
+      ]
+    }
+  ]
+}

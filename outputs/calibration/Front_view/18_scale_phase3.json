@@ -1,0 +1,18 @@
+{
+  "image_name": "18.jpeg",
+  "input_subfolder": "Front_view",
+  "input_path": "sukshi_parking/Front_view/18.jpeg",
+  "tile_size_m": 0.5,
+  "tile_distance_px": 65.0692,
+  "pixels_per_meter": 130.1384,
+  "scale_points_bev": [
+    [
+      858,
+      994
+    ],
+    [
+      923,
+      991
+    ]
+  ]
+}

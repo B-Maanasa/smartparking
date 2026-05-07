@@ -1,0 +1,147 @@
+{
+  "image_name": "48.jpeg",
+  "input_subfolder": "similar_cctv_view",
+  "input_path": "sukshi_parking/similar_cctv_view/48.jpeg",
+  "detections": [
+    {
+      "class": "car",
+      "confidence": 0.952,
+      "bbox": [
+        0,
+        583,
+        140,
+        894
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.9426,
+      "bbox": [
+        1105,
+        549,
+        1466,
+        808
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.9209,
+      "bbox": [
+        1201,
+        371,
+        1437,
+        530
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.9112,
+      "bbox": [
+        11,
+        98,
+        121,
+        195
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.7248,
+      "bbox": [
+        1001,
+        281,
+        1034,
+        334
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.7217,
+      "bbox": [
+        1160,
+        340,
+        1240,
+        402
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.6246,
+      "bbox": [
+        473,
+        341,
+        520,
+        399
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.5461,
+      "bbox": [
+        0,
+        44,
+        38,
+        98
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4741,
+      "bbox": [
+        567,
+        344,
+        607,
+        405
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.3851,
+      "bbox": [
+        1052,
+        288,
+        1096,
+        345
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.3288,
+      "bbox": [
+        613,
+        325,
+        652,
+        386
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.3002,
+      "bbox": [
+        16,
+        42,
+        58,
+        73
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.2779,
+      "bbox": [
+        1108,
+        299,
+        1162,
+        362
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.2662,
+      "bbox": [
+        3,
+        16,
+        73,
+        70
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "image_name": "30.jpeg",
+  "input_subfolder": ".",
+  "input_path": "sukshi_parking/30.jpeg",
+  "detections": [
+    {
+      "class": "car",
+      "confidence": 0.9472,
+      "bbox": [
+        736,
+        194,
+        1035,
+        312
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4652,
+      "bbox": [
+        656,
+        183,
+        688,
+        234
+      ]
+    }
+  ]
+}

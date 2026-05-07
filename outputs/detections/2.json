@@ -1,0 +1,45 @@
+{
+  "image_name": "2.jpeg",
+  "detections": [
+    {
+      "class": "car",
+      "confidence": 0.9371,
+      "bbox": [
+        694,
+        459,
+        919,
+        592
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.7822,
+      "bbox": [
+        551,
+        126,
+        639,
+        221
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.5205,
+      "bbox": [
+        670,
+        160,
+        737,
+        224
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.2808,
+      "bbox": [
+        387,
+        105,
+        419,
+        151
+      ]
+    }
+  ]
+}

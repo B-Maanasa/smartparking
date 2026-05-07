@@ -1,0 +1,67 @@
+{
+  "image_name": "39.jpeg",
+  "input_subfolder": "Front_view",
+  "input_path": "sukshi_parking/Front_view/39.jpeg",
+  "detections": [
+    {
+      "class": "motorcycle",
+      "confidence": 0.6604,
+      "bbox": [
+        679,
+        326,
+        749,
+        407
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4837,
+      "bbox": [
+        738,
+        334,
+        791,
+        409
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4476,
+      "bbox": [
+        608,
+        531,
+        727,
+        648
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4332,
+      "bbox": [
+        615,
+        612,
+        700,
+        670
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.3796,
+      "bbox": [
+        966,
+        306,
+        1075,
+        414
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.2865,
+      "bbox": [
+        355,
+        541,
+        431,
+        626
+      ]
+    }
+  ]
+}

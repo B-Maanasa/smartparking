@@ -1,0 +1,27 @@
+{
+  "image_name": "21.jpeg",
+  "input_subfolder": "Front_view",
+  "input_path": "sukshi_parking/Front_view/21.jpeg",
+  "detections": [
+    {
+      "class": "car",
+      "confidence": 0.8687,
+      "bbox": [
+        733,
+        346,
+        854,
+        438
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.8038,
+      "bbox": [
+        357,
+        460,
+        413,
+        532
+      ]
+    }
+  ]
+}

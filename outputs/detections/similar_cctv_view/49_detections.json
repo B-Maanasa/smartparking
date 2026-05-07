@@ -1,0 +1,137 @@
+{
+  "image_name": "49.jpeg",
+  "input_subfolder": "similar_cctv_view",
+  "input_path": "sukshi_parking/similar_cctv_view/49.jpeg",
+  "detections": [
+    {
+      "class": "car",
+      "confidence": 0.9469,
+      "bbox": [
+        0,
+        582,
+        145,
+        894
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.9366,
+      "bbox": [
+        1111,
+        541,
+        1480,
+        797
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.9319,
+      "bbox": [
+        1207,
+        358,
+        1447,
+        517
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.9104,
+      "bbox": [
+        18,
+        99,
+        130,
+        185
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.6389,
+      "bbox": [
+        1006,
+        271,
+        1037,
+        323
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.531,
+      "bbox": [
+        1163,
+        328,
+        1246,
+        391
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.5219,
+      "bbox": [
+        475,
+        337,
+        517,
+        396
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4932,
+      "bbox": [
+        609,
+        307,
+        652,
+        379
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4485,
+      "bbox": [
+        1109,
+        288,
+        1166,
+        353
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.444,
+      "bbox": [
+        569,
+        341,
+        610,
+        399
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.3048,
+      "bbox": [
+        1055,
+        271,
+        1114,
+        334
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.3044,
+      "bbox": [
+        681,
+        249,
+        823,
+        380
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.2853,
+      "bbox": [
+        1054,
+        273,
+        1104,
+        334
+      ]
+    }
+  ]
+}

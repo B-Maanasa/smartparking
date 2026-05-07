@@ -1,0 +1,107 @@
+{
+  "image_name": "1.jpeg",
+  "input_subfolder": "similar_cctv_view",
+  "input_path": "sukshi_parking/similar_cctv_view/1.jpeg",
+  "detections": [
+    {
+      "class": "car",
+      "confidence": 0.9428,
+      "bbox": [
+        821,
+        365,
+        1041,
+        538
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.9373,
+      "bbox": [
+        873,
+        239,
+        1020,
+        342
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.7541,
+      "bbox": [
+        781,
+        176,
+        823,
+        221
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.651,
+      "bbox": [
+        843,
+        217,
+        908,
+        261
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.5068,
+      "bbox": [
+        0,
+        374,
+        104,
+        592
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4591,
+      "bbox": [
+        477,
+        206,
+        506,
+        265
+      ]
+    },
+    {
+      "class": "car",
+      "confidence": 0.4572,
+      "bbox": [
+        522,
+        185,
+        626,
+        268
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.4477,
+      "bbox": [
+        820,
+        187,
+        888,
+        233
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.3412,
+      "bbox": [
+        426,
+        232,
+        471,
+        282
+      ]
+    },
+    {
+      "class": "motorcycle",
+      "confidence": 0.2563,
+      "bbox": [
+        746,
+        177,
+        767,
+        210
+      ]
+    }
+  ]
+}
